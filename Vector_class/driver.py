@@ -31,3 +31,5 @@ print("u after normalization =", u)
 
 # Print norm of u again to confirm it is a unit vector
 print("norm of u after normalization =", u.norm())
+
+input()
